@@ -1,5 +1,3 @@
-# ERP-Pizzerias-A21
-
 # ERP – Cadena de Pizzerías
 # Descripción del Proyecto
 El presente proyecto consiste en el análisis y diseño de un sistema ERP (Enterprise Resource Planning) para una cadena de pizzerías, inspirado en el modelo operativo de empresas como Domino’s Pizza.
